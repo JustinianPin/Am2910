@@ -11,6 +11,7 @@ This project implements the internal logic of the **Am2910 Microprogram Controll
 The **Am2910** is a classic microprogram sequencer used to control the execution flow of microinstructions stored in a microprogram memory. It supports complex branching, microsubroutine nesting, and loop count control — making it ideal for microcoded control units.
 
 ---
+![image](https://github.com/user-attachments/assets/6a2c6248-8a7b-45e2-a96e-49380fb6b40f)
 
 ## Core Features
 
