@@ -38,8 +38,7 @@ Waveforms and simulation results can be viewed using **Vivado**.
 ## Tools & Requirements
 
 - Verilog HDL
-- Simulation environment (ex: ModelSim, Vivado, Icarus Verilog)
-- Optional: GTKWave for viewing waveform outputs
+- Simulation environment: Vivado
 
 ---
 
